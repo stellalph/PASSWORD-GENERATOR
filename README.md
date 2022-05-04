@@ -15,7 +15,7 @@ The application is deployed at : https://stellalph.github.io/PASSWORD-GENERATOR/
 
 I have provided an image in which you find in this repository, that is, "Password written to page.jpg" of the password written to the page after going through a series of prompts messages in which the user is required to enter at (window.prompt).
 
-![alt text](image01.jpg)
+![alt text](image01.png)
 
 The steps taken to achieve the final result as on the screen:-
 
