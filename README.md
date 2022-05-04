@@ -10,11 +10,12 @@ The respository name is "PASSWORD-GENERATOR" as this is a random password genera
 
 The application is deployed at : https://stellalph.github.io/PASSWORD-GENERATOR/ and the GitHub repository that contains the application code is https://github.com/stellalph/PASSWORD-GENERATOR.git
 
+
 ## PASSWORD GENERATOR CRITERIA
 
 I have provided an image in which you find in this repository, that is, "Password written to page.jpg" of the password written to the page after going through a series of prompts messages in which the user is required to enter at (window.prompt).
 
-https://github.com/stellalph/PASSWORD-GENERATOR/blob/main/Password%20written%20to%20page.jpg
+![alt text](image01.jpg)
 
 The steps taken to achieve the final result as on the screen:-
 
