@@ -19,21 +19,24 @@ The image shows the end result of the "password written to the page" after going
 
 The steps taken to achieve the final result as on the screen:-
 
-*Clicking on the "Generate Password" will trigger a series of prompt messages to the user to enter and confirm. The code is written using Javascript Functions, Window Methods, String Methods and Selection Methods).
 
-*The user will be prompted to enter the password criteria :-
- password length of at least 8 characters and no more than 128 characters.
- the character types they want to include, that is, lowercase, uppercase, numeric and/or special characters.
+```
 
- *The application should then validate the user input and ensure that at least one character should be selected.
+Clicking on the "Generate Password" will trigger a series of prompt messages to the user to enter and confirm. The code is written using Javascript Functions, Window Methods, String Methods and Selection Methods).
 
- *When the user have answered all the prompt messages, the user will be presented with the password which will match with the selected criteria.
+The user will be prompted to enter the password criteria :-
+password length of at least 8 characters and no more than 128 characters,
+the character types they want to include lowercase, uppercase, numeric and/or special characters.
 
- *This password is written to the page as per the link.  This is also located in the repository.
+The application should then validate the user input and ensure that at least one character should be selected.
 
- *Event listener will determine the password output with function to populate the value into the "Your Secure Pasword" area.
+When the user have answered all the prompt messages, the user will be presented with the password which will match with the selected criteria.
 
-      
+This password is written to the page as per the link.  This is also located in the repository.
+
+Event listener will determine the password output with function to populate the value into the "Your Secure Pasword" area.
+
+```    
 
 
 
